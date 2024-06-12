@@ -1,4 +1,4 @@
-# Hi , My name is Ivan![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi :raised_hand: , My name is Ivan!
 ### I am a Data Anslyst from Russia
 
 
