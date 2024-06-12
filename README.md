@@ -1,2 +1,2 @@
-# Hi there, I'm Ivan![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Data Anslyst from Russia 🇷🇺
+# Hi , My name is Ivan![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### I am a Data Anslyst from Russia 🇷🇺
