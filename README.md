@@ -1,8 +1,8 @@
 # Hi :raised_hand: , My name is Ivan!
 ### I am a Data Anslyst from Russia. If you want to contact me, feel free to contact me: 
-#### via Telegram: https://t.me/ivan_aksyonov
-#### via email: ivan_aksyonov@inbox.ru
-#### If you are a recruiter, you can check out my [CV](https://hh.ru/resume/e9ac1d3dff0d45aad50039ed1f794347587176 "hh.ru CV") .
+### via Telegram: https://t.me/ivan_aksyonov
+### via email: ivan_aksyonov@inbox.ru
+### If you are a recruiter, you can check out my [CV](https://hh.ru/resume/e9ac1d3dff0d45aad50039ed1f794347587176 "hh.ru CV") .
 ### This is my portfolio for data analytics projects:
 
 
