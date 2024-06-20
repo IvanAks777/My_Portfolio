@@ -10,7 +10,7 @@
    * 1.1 Read the data and preprocess
    * 1.2 Conduct EDA - Exploritary Data Analysis
    * 1.3 Write a function to calculate retention rate and produce: Cohort Heatmap graph, cohort.csv file according to input date and number of days to calculate retention.
-2) [RFM Analysis](https://github.com/IvanAks777/My_Portfolio/blob/main/Olist%20E-commerce%20metrics%20and%20RFM%20analysis/aksyonov_project.ipynb "E-commerce and RFM") is my project about real e-commerce data getting from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). The stages of analysis:
+2) [RFM Analysis](https://github.com/IvanAks777/My_Portfolio/blob/main/Olist%20E-commerce%20metrics%20and%20RFM%20analysis/aksyonov_project.ipynb "E-commerce and RFM") is my project about real e-commerce data getting from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). The goal is to calculate main e-commerce metrics and produce RFM analysis. The stages of analysis:
    * 2.1 Download the data using Yandex API.
    * 2.2 Preprocess Data(cleaning) and merge into one dataframe(denormalization).
    * 2.3 Conduct EDA - Exploritary Data Analysis
