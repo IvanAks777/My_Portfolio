@@ -1,5 +1,5 @@
 # Hi :raised_hand: , My name is Ivan!
-### I am a Data Anslyst from Russia. If you want to contact me, feel free to contact me: 
+### I am a Data Anslyst from Russia. If you want to contact me, feel free to send me a message: 
 * via Telegram: https://t.me/ivan_aksyonov
 * via email: ivan_aksyonov@inbox.ru
 ### This is my portfolio for data analytics projects:
