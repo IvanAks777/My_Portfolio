@@ -40,7 +40,7 @@
    <li>
       <h3>Human Resources Dashboard</h3>
       <p>
-      <strong>Jupiter notebook:</strong> <a href="https://public.tableau.com/app/profile/ivan2501/viz/HRKPIsforBonuses/Dashboard1">Human Resources Dashboard</a><br>
+      <strong>Tableau Dashboard:</strong> <a href="https://public.tableau.com/app/profile/ivan2501/viz/HRKPIsforBonuses/Dashboard1">Human Resources Dashboard</a><br>
       <strong>Description:</strong> My dashboard project about human resources KPIs made with Tableau from scratch.<br>
       <img src="Tableau Dashboard Picture/HR Dashboard.png">
       </p>
