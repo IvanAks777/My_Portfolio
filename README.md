@@ -23,7 +23,7 @@
       <h3>RFM Analysis</h3>
       <p>
       <strong>Jupiter notebook:</strong> <a href="Olist E-commerce metrics and RFM analysis/aksyonov_project.ipynb">RFM Analysis</a><br>
-      <strong>Description:</strong> The project about real e-commerce data getting from <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Kaggle</a>. The goal is to calculate main e-commerce metrics and produce RFM analysis.<br>
+      <strong>Description:</strong> The project is about real e-commerce data getting from <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Kaggle</a>. The goal is to calculate main e-commerce metrics and produce RFM analysis.<br>
       <strong>The stages of the project:</strong>
          <ol type="1">
             <li>Download the data using Yandex API.</li>
