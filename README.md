@@ -1,7 +1,7 @@
 <h1 align="center">Hi, My name is Ivan!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h2 align="center">I am a Data Analyst from Russia.</h2>
+<h2 align="center">I am a Data Warehouse Analyst from Russia.</h2>
 
 <h2>This is my portfolio for data analytics projects:</h2>
 <ol>
